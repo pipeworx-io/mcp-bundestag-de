@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bundestag-de",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Bundestag DIP MCP",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-0fc20856b1d913d35b5fac3dbf05d72c27909005aafcc740fc6527ccc2457677",
-    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
+    "sourceHash": "v1-b9c776d1c56d099e2275ec5616453a6c5e286bfe22786b4ca4b234c319c82ffb",
+    "sourceCommit": "5d8d3a58a457b8464c117515d81b8b6ecb53fdfb"
   }
 }
