@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bundestag-de",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Bundestag DIP MCP",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "bundestag-de",
     "gatewaySlug": "bundestag-de",
-    "sourceHash": "v1-91485b86eb60e2e6084f46684ad66012d3b9fe20613d7b55d4be34cb8c4f2e2f",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-f2ce31a4efe164f977c0a20cd5dec8ee2bd1f0790cb61296c8a08de802941543",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
